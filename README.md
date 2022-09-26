@@ -15,7 +15,7 @@ Skills this projects will highligh are:
     
   # Projects:
 <ol>
-  <h2> <li>Project 1 -'Working with SQL & a Data Base'</li> <h2> Will showcase my ability to work in a data base and to create a data.
+  <h2> <li>Project 1 -'Working with SQL & Data Base'</li> <h2> Will showcase my ability to work in a data base and to create a data.
   
 <li>Example 2</li>
 <li>Example 3</li>
