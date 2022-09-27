@@ -30,10 +30,9 @@ Skills this projects will highligh are:
 <h5> <li>Project 2 - additional/ supporting data:  -'Working SQL to Clean up Data' <h5>
    
 <h5> <li>Example 2</li> <h5>
- </UL>
  
 <h4> <li>Project 3 -Working with Python and Pandas'<h4> 
- <UL>
+  </UL>
 <h5> <li>Project 3 -'Working with Python and Pandas'<h5> 
 <h5> <li>Project 3: link:  <h5>
  
