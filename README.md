@@ -12,7 +12,7 @@ Skills this projects will highligh are:
  <li>Project 3 - 'Working with Python & Pandas'</li>
 (project 1)that that will my ability to work with SQL through a data base, and my abailtiy to create a data base.  
     </ul>
-    
+   
   # Projects: 
 <ol>
  <h4> <li>Project 1 -'Working with SQL & Data Base'<h4> 
