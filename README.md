@@ -16,7 +16,7 @@ Skills this projects will highligh are:
   # Projects: 
 <ol>
  <h4> <li>Project 1 -'Working with SQL & Data Base'<h4> 
-  <UL>
+ <UL>
    
 <h5> <li>Will showcase ability to work in a data base and to create a <h5> 
 <h5> <li>Project 1: link:  <h5>
@@ -28,14 +28,12 @@ Skills this projects will highligh are:
 <h5>  <LI>Project 2: Showcases my ability to utilize SQL to clean up data.<h5> 
 <h5> <li>Project 2: link: <h5>
 <h5> <li>Project 2 - additional/ supporting data:  -'Working SQL to Clean up Data' <h5>
-   
 <h5> <li>Example 2</li> <h5>
+ </UL>
  
 <h4> <li>Project 3 -Working with Python and Pandas'<h4> 
-  </UL>
+ <UL>
 <h5> <li>Project 3 -'Working with Python and Pandas'<h5> 
-<h5> <li>Project 3: link:  <h5>
- 
- <ol>
+<h5> <li>Project 3: link: <h5>
 <h5> <li>Project 3 -'Working with Python and Pandas'<h5> 
-  </ul>
+ </ul>
