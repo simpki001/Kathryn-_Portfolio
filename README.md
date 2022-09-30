@@ -19,7 +19,7 @@ Skills this projects will highligh are:
  <UL>
    
 <h5> <li>Will showcase ability to work in a data base and to create a <h5> 
-<h5> <li>Project 1: link:  <h5>
+<h5> <li>Project 1: link:  Raw data pulled into excel: Covid Deaths  <h5>
 <h5> <li>Project 1 - additional/ supporting data:  -'Working SQL to Clean up Data' <h5>
  </UL>
    
