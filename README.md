@@ -19,8 +19,22 @@ Skills this projects will highligh are:
  <UL>
    
 <h5> <li>Will showcase ability to work in a data base and to create a <h5> 
-<h5> <li>Project 1: link:  Raw data pulled into excel: Covid Deaths  <h5>
-<h5> <li>Project 1 - additional/ supporting data:  -'Working SQL to Clean up Data' <h5>
+
+<h5> <li> Raw data (pulled into excel) Covid Deaths:  <h5> 
+  <a href="https://github.com/simpki001/Kathryn_Portfolio/blob/6f62a9d9ddb72816a114a5671a58f40d9fcba69e/CovidDeaths.xlsx">Covid Deaths - Raw Data</a>
+
+ <h5> <li> Raw data (pulled into excel) Covid Vaccinations: <h5>
+
+<a href="https://github.com/simpki001/Kathryn_Portfolio/blob/6f62a9d9ddb72816a114a5671a58f40d9fcba69e/CovidVaccinations.xlsx">Covid_Vaccinations - Raw Data 
+</a>
+
+<h5> <li>Project 1 - additional/ supporting data:  -'Working SQL to Clean up Data'
+<a href="https://github.com/simpki001/Kathryn_Portfolio/blob/6f62a9d9ddb72816a114a5671a58f40d9fcba69e/CovidVaccinations.xlsx">Covid_Vaccinations - Raw Data 
+</a>
+
+<h5> <li>Project 1 - additional/ supporting data:
+
+<h5>
  </UL>
    
 <h4> <li>Project 2 -'Working SQL to Clean up Data'<h4> 
