@@ -7,9 +7,9 @@ In total there will be 3 projects highlighted within this portfolio, an overview
 
 Skills this projects will highligh are:
 <ul>
-<li>Project 1 - 'Working with SQL & a Data Base'</li> Will showcase my ability to work in a data base and to creatte a data.
+<li>Project 1 - 'Working with SQL & Data Base'</li> Will showcase my ability to work in a data base and to creatte a data.
 <li>Project 2 -'Working SQL to Clean up Data'</li> Will showcase my ability to utulize SQL to clean up data.
- <li>Project 3 - 'Working with Python & Pandas'</li>
+<li>Project 3 - 'Working with Python & Pandas'</li>
 (project 1)that that will my ability to work with SQL through a data base, and my abailtiy to create a data base.  
     </ul>
    
@@ -32,7 +32,8 @@ Skills this projects will highligh are:
 <a href="https://github.com/simpki001/Kathryn_Portfolio/blob/6f62a9d9ddb72816a114a5671a58f40d9fcba69e/CovidVaccinations.xlsx">Covid_Vaccinations - Raw Data 
 </a>
 
-<h5> <li>Project 1 - additional/ supporting data:
+<h5> <li>Project 1 - Final product (Building a data)  
+ <a href="https://github.com/simpki001/Kathryn_Portfolio/blob/3d0b2bd88ef5248b0739db6159bd76f88fa62176/SQL%20Project%201.sql">SQL Project 1(Building a Database)</a>
 
 <h5>
  </UL>
